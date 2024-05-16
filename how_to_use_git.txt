@@ -13,6 +13,14 @@ git log			#查看历史记录
 git log --stat  	#查看更新细节 其中commit ID可以回溯
 git diff "commit ID" #查看修改了什么内容
 
+如何使用github：
+1，引用别人打包好的Releases:点击 别人在github上的Releases,按你的操作系统版本选对应包
+2，如果没有对应下载处，阅读readme,看作者的说明
+3，看看有没有docker
+
+
+
+
 
 
 
