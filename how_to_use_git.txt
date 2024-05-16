@@ -1,0 +1,18 @@
+一：修改文件内容
+二：	git add
+三： git commit
+
+暂存
+git add 文件名， #保存该文件到git
+git add .              # 保存该目录下所有文件
+
+提交
+git commit -m "备注"   #上传文档并对它进行备注
+
+git log			#查看历史记录
+git log --stat  	#查看更新细节 其中commit ID可以回溯
+git diff "commit ID" #查看修改了什么内容
+
+
+
+
