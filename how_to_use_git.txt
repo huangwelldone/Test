@@ -18,7 +18,7 @@ git diff "commit ID" #查看修改了什么内容
 2，如果没有对应下载处，阅读readme,看作者的说明
 3，看看有没有docker
 
-
+git push -u origin master #上传本地代码
 
 
 
